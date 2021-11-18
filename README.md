@@ -103,3 +103,6 @@ During the end of each player's turn, apply the greenhouse factor (x1.2) and cou
 
 ## :gem: Looking for feedbacks!
 Simple as it may appear, we actually tested this game extensively to balance and improve the gaming experience. The amount of gates, various fortune/chance cards, and also the winning condition are carefully chosen after thorough tests. This game is, nevertheless, still under testing and we would love to hear everyone's comment to make it more fun and even competitive. Please try it out and give us some thoughts/feedbacks!
+
+Game description:https://youtu.be/jqob_k6QFB4
+Game Operation Example:(Will upload today)
